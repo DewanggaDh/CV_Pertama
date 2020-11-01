@@ -1,1 +1,13 @@
 body{background-color:cyan; border : 3px solid orange;}
+.column{
+  float: left;
+}
+
+.column.side{
+  width:25%;
+}
+
+.column.middle
+{
+  width:75%;
+}
